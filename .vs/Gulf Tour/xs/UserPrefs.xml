@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0F43F0D5-C377-3325-581A-C2888908D70C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/VR/Scripts/ERPathPlayer.cs">
+    <Files>
+      <File FileName="Assets/Oculus/VR/Scripts/ERPathPlayer.cs" Line="53" Column="17" />
+      <File FileName="Assets/Oculus/VR/Scripts/ERPathToVertexPathWrapper.cs" Line="65" Column="46" />
+      <File FileName="Assets/Oculus/VR/Scripts/ERPathAdapter.cs" Line="7" Column="18" />
+      <File FileName="Assets/Oculus/VR/Scripts/ERNetworkVertexPathCreator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gulf Tour" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6861eb54-312c-405a-ac5f-2c1ce9e16471" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 42e41a852a753f24384d7c631f956607
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e1ab962f9518e314d97f6ee023a3eeb1, type: 3}
+  pageSize: 1024
+  rows: 16
+  cols: 9
+  originalWidth: 16384
+  originalHeight: 9216
+  compressed: 0
+  transparent: 0
+  quality: 0
